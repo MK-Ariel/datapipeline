@@ -1,0 +1,6 @@
+flows:
+  9a5c472e-e8b7-4860-a67e-e5f0eb277e42: {ver: 1, file: electiondataflow.snapshot,
+    comments: '', author: anonymous, created: 1672850945756, flowName: electiondataflow,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 1a5de4ab-0750-47d6-8322-d7a20fef4aba
